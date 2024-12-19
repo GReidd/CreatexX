@@ -1,0 +1,25 @@
+.descr {
+  margin: 0;
+  margin-bottom: 57px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.5;
+  color: var(--gray-700);
+
+  &--center {
+    text-align: center;
+  }
+}
+
+.main-descr {
+  margin: 0;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  color: var(--gray-700);
+
+  &--home {
+    color: var(--white);
+    margin-bottom: 60px;
+  }
+}
